@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @LuKeyC-NetSEC!
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=LuKeyC-NetSEC)
+![LuKeyC-NetSEC's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuKeyC-NetSEC)
 
 ## 🎓 About Me
 - 📚 **Computer Science Student** .
