@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @LuKeyC-NetSEC!
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=LuKeyC-NetSEC" alt="LuKeyC-NetSEC's GitHub stats">
