@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @LuKeyC-NetSEC!
 
-<div id="stats-container" style="display: flex; align-items: flex-start;">
-  <img id="github-stats" alt="LuKeyC-NetSEC's GitHub stats">
-  <img id="top-langs" alt="Top Langs">
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuKeyC-NetSEC" alt="LuKeyC-NetSEC's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuKeyC-NetSEC" alt="Top Langs">
 </div>
 
 <img align="center" src="https://count.getloli.com/get/@:LuKeyC-NetSEC?theme=rule34">
@@ -28,18 +28,5 @@ You can click the Preview link to take a look at your changes.
 - **Version Control:** Git, GitHub
 ---
 
-<script>
-  function setTheme() {
-    const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-    const theme = isDarkMode ? 'dark' : 'light';
-    document.getElementById('github-stats').src = `https://github-readme-stats.vercel.app/api?username=LuKeyC-NetSEC&theme=${theme}`;
-    document.getElementById('top-langs').src = `https://github-readme-stats.vercel.app/api/top-langs/?username=LuKeyC-NetSEC&theme=${theme}`;
-  }
 
-  // Set theme on load
-  setTheme();
-
-  // Listen for changes in the color scheme
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
-</script>
 
