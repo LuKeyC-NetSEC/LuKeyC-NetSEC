@@ -4,7 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @LuKeyC-NetSEC!
 
+<img align="right" src="https://count.getloli.com/get/@:LuKeyC-NetSEC?theme=rule34">
+
 ![LuKeyC-NetSEC's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuKeyC-NetSEC)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 ## 🎓 About Me
 - 📚 **Computer Science Student** .
