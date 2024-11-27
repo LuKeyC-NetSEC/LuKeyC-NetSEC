@@ -4,16 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @LuKeyC-NetSEC!
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LuKeyC-NetSEC" alt="LuKeyC-NetSEC's GitHub stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuKeyC-NetSEC" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuKeyC-NetSEC" alt="LuKeyC-NetSEC's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuKeyC-NetSEC" alt="Top Langs">
+</div>
 
 <img align="center" src="https://count.getloli.com/get/@:LuKeyC-NetSEC?theme=rule34">
 
